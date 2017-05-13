@@ -1,10 +1,8 @@
-//video Coding While Loops in lesson Finding All Genes in DNA
-
 /**
- * Write a description of FindGeneWhile here.
+ * findGene
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Ryan
+ * @version 1.0
  */
 public class FindGeneWhile {
     public String findGene(String dna) {
