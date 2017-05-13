@@ -1,4 +1,5 @@
-Coding While Loops
-Coding Three Stop Codons Part 2
-Coding And/Or
-Translating to Code
+1.Coding While Loops
+2.Coding Three Stop Codons Part 2
+3.Coding And/Or
+4.Translating to Code
+
