@@ -1,5 +1,3 @@
-//video Coding And / Or in lesson Finding All Genes in DNA
-
 /**
  * Using AND && and OR ||
  * 
