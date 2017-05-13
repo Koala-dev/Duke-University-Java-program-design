@@ -1,4 +1,4 @@
-<bold>String in Java</br><bold>
+String in Java</br>
 How to identify genes in a strand of DNA.</br>
 
 (1) Use important methods for the Java String class;</br> 
