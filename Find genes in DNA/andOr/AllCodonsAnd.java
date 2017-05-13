@@ -3,7 +3,7 @@
 /**
  * Using AND && and OR ||
  * 
- * @author Owen
+ * @author Ryan
  * @version 1.0
  */
 public class AllCodonsAnd {
