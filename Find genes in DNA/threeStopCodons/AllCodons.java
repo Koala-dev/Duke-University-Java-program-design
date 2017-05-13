@@ -3,7 +3,7 @@
 /**
  * Finding three stop codons
  * 
- * @author Owen
+ * @author Ryan
  * @version 1.0
  */
 public class AllCodons
