@@ -1,7 +1,5 @@
-//Video Coding Three Stop Codons part 2
-
 /**
- * Finding three stop codons
+ * threeStopCodons
  * 
  * @author Ryan
  * @version 1.0
